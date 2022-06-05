@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+
+#score{
+font-size: 15px;
+margin-left: 20px;
+}
+
+#time{
+    font-size: 35px;
+    margin-right: 20px;
+}
+
+#drawing{
+    color: coral;
+}
